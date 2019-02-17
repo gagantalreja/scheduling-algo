@@ -3,7 +3,7 @@
 ***
 
 ## Problem Statement
-**Design an interactive platform (Web, app) for CPU scheduling algorithms (minimum requirement: outcome to be displayed in a Gantt chart)**
+######Design an interactive platform (Web, app) for CPU scheduling algorithms (minimum requirement: outcome to be displayed in a Gantt chart)
 
 ### Overview
 * **Solution Overview**
@@ -25,6 +25,9 @@
 
 * **Installation Guide**
  * No Installation required. The **hackathon.exe** file can directly be executed.
+ 
+### Future Improvements
+* More scheduling algorithms can be added in future.
 
 ***
 
