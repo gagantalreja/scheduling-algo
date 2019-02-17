@@ -3,18 +3,12 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 import qdarkstyle
-import os,openpyxl
 import sys
-import pandas as pd
-import numpy as np
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar
 import matplotlib
 import matplotlib.pyplot as plt
-from datetime import datetime
-import datetime as dt
 import warnings
-import time
 import warnings
 warnings.filterwarnings('ignore')
 StyleSheet = '''
