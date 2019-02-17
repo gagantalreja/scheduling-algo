@@ -3,7 +3,7 @@
 ***
 
 ## Problem Statement
-######Design an interactive platform (Web, app) for CPU scheduling algorithms (minimum requirement: outcome to be displayed in a Gantt chart)
+**Design an interactive platform (Web, app) for CPU scheduling algorithms (minimum requirement: outcome to be displayed in a Gantt chart)**
 
 ### Overview
 * **Solution Overview**
